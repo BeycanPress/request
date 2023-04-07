@@ -2,8 +2,6 @@
 
 It is a simple and useful class for receiving data in many different request types and sending requests.
 
-[![License](https://poser.pugx.org/smalot/pdfparser/license)](//packagist.org/packages/smalot/pdfparser)
-
 ## Features ##
 
 Features included :
